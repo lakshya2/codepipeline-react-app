@@ -8,7 +8,7 @@ os: linux
 
 files:
   - source: /
-    destination: /var/www/jenkins-react-app
+    destination: /var/www/jenkins-react-app/
 
 permissions:
   - object: /
